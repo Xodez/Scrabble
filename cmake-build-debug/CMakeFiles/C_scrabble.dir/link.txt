@@ -1,0 +1,3 @@
+C:\Users\Kasparas\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\193.6494.38\bin\cmake\win\bin\cmake.exe -E remove -f CMakeFiles\C_scrabble.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\C_scrabble.dir/objects.a @CMakeFiles\C_scrabble.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\C_scrabble.dir/objects.a -Wl,--no-whole-archive  -o C_scrabble.exe -Wl,--out-implib,libC_scrabble.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\C_scrabble.dir\linklibs.rsp

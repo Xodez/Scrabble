@@ -1,0 +1,3 @@
+C:/Users/Kasparas/CLionProjects/School/C-scrabble/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Kasparas/CLionProjects/School/C-scrabble/cmake-build-debug/CMakeFiles/scrabble.dir
+C:/Users/Kasparas/CLionProjects/School/C-scrabble/cmake-build-debug/CMakeFiles/edit_cache.dir
