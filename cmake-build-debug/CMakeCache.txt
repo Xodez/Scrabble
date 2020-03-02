@@ -20,6 +20,12 @@ Assignment1_BINARY_DIR:STATIC=C:/Users/Kasparas/CLionProjects/School/C-scrabble/
 //Value Computed by CMake
 Assignment1_SOURCE_DIR:STATIC=C:/Users/Kasparas/CLionProjects/School/C-scrabble
 
+//Value Computed by CMake
+C-scrabble_BINARY_DIR:STATIC=C:/Users/Kasparas/CLionProjects/School/C-scrabble/cmake-build-debug
+
+//Value Computed by CMake
+C-scrabble_SOURCE_DIR:STATIC=C:/Users/Kasparas/CLionProjects/School/C-scrabble
+
 //Path to a program.
 CMAKE_AR:FILEPATH=C:/MinGW/bin/ar.exe
 
@@ -133,7 +139,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=Assignment1
+CMAKE_PROJECT_NAME:STATIC=C-scrabble
 
 //Path to a program.
 CMAKE_RANLIB:FILEPATH=C:/MinGW/bin/ranlib.exe
